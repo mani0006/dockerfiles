@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 FROM almalinux:9;
-info;
-
-=======
-FROM almalinux:9;
-info;
-
->>>>>>> 94fdea9cf83c8133d84cd6259fc1ca810773d15b
