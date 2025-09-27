@@ -1,4 +1,4 @@
-FROM lamalinux:9
+FROM almalinux:9
 label author="Mani" \
       course="Docker" \
       email="manijampula" \
