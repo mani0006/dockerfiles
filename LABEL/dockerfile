@@ -1,0 +1,4 @@
+FROM lamalinux:9
+label author="Mani" \
+      course="Docker" \
+      email="manijampula" \
